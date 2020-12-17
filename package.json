@@ -1,0 +1,26 @@
+{
+  "name": "postproj",
+  "version": "1.0.0",
+  "description": "A simple and professional database engine.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Postproj/nodejs-connector.git"
+  },
+  "author": "PostProj Foundation",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Postproj/nodejs-connector/issues"
+  },
+  "homepage": "https://github.com/Postproj/nodejs-connector#readme",
+  "dependencies": {
+    "@types/node": "^14.14.14",
+    "fs": "0.0.1-security"
+  }
+}
